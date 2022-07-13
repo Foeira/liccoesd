@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.about-intro{
+    background-color: #ff4e00;
+    background-image: linear-gradient(315deg,#ff4e00,#FF993B 84%);
+    overflow-x: hidden !important;
+    /* transform: rotate(deg15); */
+    position: absolute;
+    top: -86%;
+    left: -100px;
+    right: 0;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
