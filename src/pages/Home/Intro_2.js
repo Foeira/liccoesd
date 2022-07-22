@@ -16,7 +16,7 @@ function Intro_2() {
         </button>
       </div>
 
-      <div className="p-10">
+      <div className="p-2 h-50 w-50">
         <Video />
       </div>
     </div>

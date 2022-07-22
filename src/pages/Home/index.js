@@ -13,7 +13,6 @@ function Clients() {
           <Intro_2 />
           <Biometricos />
           <PorqueLicco />
-          <Video />
         </div>
       </Layout>
     </div>

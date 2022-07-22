@@ -35,7 +35,7 @@ function Layout({ children }) {
       <div className="fixed bottom-10 left-0 right-0 sm:bottom-0">
         <div className="flex w-full justify-center lg:justify-center md:justify-start">
           {menuItems.map((item, index) => (
-            <div className="flex flex-col justify-end items-center">
+            <div className="flex flex-col justify-end items-center" id="navbar">
               {location.pathname === item.path && (
                 <div>
                   <div className="h-1 bg-secondary"></div>
